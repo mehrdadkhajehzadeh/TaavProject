@@ -1,0 +1,14 @@
+C:\Users\Novin\source\repos\OopExam\OopExam\bin\Debug\net7.0\OopExam.exe
+C:\Users\Novin\source\repos\OopExam\OopExam\bin\Debug\net7.0\OopExam.deps.json
+C:\Users\Novin\source\repos\OopExam\OopExam\bin\Debug\net7.0\OopExam.runtimeconfig.json
+C:\Users\Novin\source\repos\OopExam\OopExam\bin\Debug\net7.0\OopExam.dll
+C:\Users\Novin\source\repos\OopExam\OopExam\bin\Debug\net7.0\OopExam.pdb
+C:\Users\Novin\source\repos\OopExam\OopExam\obj\Debug\net7.0\OopExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Novin\source\repos\OopExam\OopExam\obj\Debug\net7.0\OopExam.AssemblyInfoInputs.cache
+C:\Users\Novin\source\repos\OopExam\OopExam\obj\Debug\net7.0\OopExam.AssemblyInfo.cs
+C:\Users\Novin\source\repos\OopExam\OopExam\obj\Debug\net7.0\OopExam.csproj.CoreCompileInputs.cache
+C:\Users\Novin\source\repos\OopExam\OopExam\obj\Debug\net7.0\OopExam.dll
+C:\Users\Novin\source\repos\OopExam\OopExam\obj\Debug\net7.0\refint\OopExam.dll
+C:\Users\Novin\source\repos\OopExam\OopExam\obj\Debug\net7.0\OopExam.pdb
+C:\Users\Novin\source\repos\OopExam\OopExam\obj\Debug\net7.0\OopExam.genruntimeconfig.cache
+C:\Users\Novin\source\repos\OopExam\OopExam\obj\Debug\net7.0\ref\OopExam.dll

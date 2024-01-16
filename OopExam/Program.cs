@@ -6,10 +6,10 @@ var person = new Person("mehrdad", "kh");
 person.GetFullName();
 
 
-var employee = new Employee(123, 1000);
+var employee = new Employee("Hossein", 1, 1000);
 employee.PrintDetails();
 
-var manager = new Manager(123, 1500, "Developer");
+var manager = new Manager("Developer", "Mehrdad", 2, 1500);
 manager.PrintDetails();
 
 var carInside = new ProductionMachineInside(2000, "pride");

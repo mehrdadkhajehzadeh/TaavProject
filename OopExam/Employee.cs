@@ -1,14 +1,17 @@
 ﻿class Employee
 {
+    public string Name { get; set; }
     public int EmployeeID { get; set; }
     public int Salary { get; set; }
-    public Employee(int employeeID, int salary)
+    public Employee(string name, int employeeID, int salary)
     {
+        Name = name;
         EmployeeID = employeeID;
         Salary = salary;
     }
-    public void PrintDetails()
+
+    public virtual void PrintDetails()
     {
-        Console.WriteLine($"{EmployeeID} salary : {Salary}");
+        Console.WriteLine($"name is : {Name}, EmployeeId is : {EmployeeID}, salary is : {Salary}");
     }
 }

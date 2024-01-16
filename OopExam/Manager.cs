@@ -1,15 +1,17 @@
 ﻿class Manager : Employee
 {
     public string Department { get; set; }
-
-    public Manager(int employeeID, int salary, string department) : base(employeeID, salary)
+    public Manager(string department, string name, int employeeID, int salary) : base(name, employeeID, salary)
     {
-        EmployeeID = employeeID;
-        Salary = salary;
         Department = department;
+
     }
-    public void PrintDetails()
+    public override void PrintDetails()
     {
-        Console.WriteLine($"{EmployeeID} salary : {Salary} Department :{Department}");
+        Console.WriteLine(
+            $"name is : {Name}," +
+            $" EmployeeId is : {EmployeeID}," +
+            $" Department is : {Department}," +
+            $" salary is : {Salary}");
     }
 }
